@@ -1,0 +1,5 @@
+﻿experiment,features,feature_count,model,accuracy,precision_macro,recall_macro,f1_macro
+TN1,Mean + Std (RGB),6,KNN,1.0,1.0,1.0,1.0
+TN2,Mean + Std (HSV),6,KNN,1.0,1.0,1.0,1.0
+TN3,Histogram màu HSV,50,SVM,1.0,1.0,1.0,1.0
+TN4,Kết hợp toàn bộ đặc trưng,63,SVM,1.0,1.0,1.0,1.0

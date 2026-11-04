@@ -1,0 +1,16 @@
+﻿label,center_x,center_y,size_parameter,rotation_degree,background_value,object_value,noise_sigma,path
+circle,61,39,24,218.228,241,27,1.722,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\circle\external_circle_0000.png
+circle,78,94,28,66.288,246,33,6.287,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\circle\external_circle_0001.png
+circle,65,83,28,24.933,254,0,4.365,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\circle\external_circle_0002.png
+circle,83,73,39,191.894,238,21,2.888,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\circle\external_circle_0003.png
+circle,51,63,30,96.884,239,10,6.954,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\circle\external_circle_0004.png
+square,69,73,69.13,158.816,237,41,2.955,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\square\external_square_0000.png
+square,50,47,56.6,250.186,246,42,6.222,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\square\external_square_0001.png
+square,52,62,60.79,190.579,252,11,2.677,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\square\external_square_0002.png
+square,57,61,69.55,98.911,254,17,2.773,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\square\external_square_0003.png
+square,64,62,69.72,299.197,250,22,3.22,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\square\external_square_0004.png
+triangle,56,68,45.7,93.566,254,37,6.331,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\triangle\external_triangle_0000.png
+triangle,67,55,42.34,316.798,251,30,4.149,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\triangle\external_triangle_0001.png
+triangle,54,75,38.38,147.633,241,41,1.959,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\triangle\external_triangle_0002.png
+triangle,51,76,33.95,118.061,241,1,1.808,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\triangle\external_triangle_0003.png
+triangle,69,55,44.27,150.265,240,12,3.388,D:\Xử lý ảnh - thị giác Robot\tuan6\data\shapes_external\triangle\external_triangle_0004.png

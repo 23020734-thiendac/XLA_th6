@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Không đưa báo cáo và file tạm vào kho mã nguồn
+*.docx
+*_bao_cao_*.txt
+*bao_cao*.pdf
+~$*
+*.tmp

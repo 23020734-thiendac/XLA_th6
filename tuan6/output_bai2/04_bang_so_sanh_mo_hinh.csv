@@ -1,0 +1,10 @@
+﻿experiment,feature_group,feature_count,model,accuracy,f1_macro
+Shape_KNN,Shape,7,KNN,1.0,1.0
+Shape_SVM,Shape,7,SVM,1.0,1.0
+Shape_RF,Shape,7,RF,1.0,1.0
+HOG_KNN,HOG,1764,KNN,1.0,1.0
+HOG_SVM,HOG,1764,SVM,1.0,1.0
+HOG_RF,HOG,1764,RF,1.0,1.0
+Combined_KNN,Combined,1771,KNN,1.0,1.0
+Combined_SVM,Combined,1771,SVM,1.0,1.0
+Combined_RF,Combined,1771,RF,1.0,1.0

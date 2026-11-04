@@ -1,0 +1,6 @@
+numpy>=1.24
+matplotlib>=3.7
+opencv-contrib-python>=4.8
+pandas>=2.0
+scikit-learn>=1.4
+joblib>=1.3
