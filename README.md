@@ -1,14 +1,5 @@
 # THỰC HÀNH TUẦN 6 – XỬ LÝ ẢNH VÀ THỊ GIÁC ROBOT
 
-Kho mã nguồn gồm đầy đủ hai bài thực hành về **trích chọn đặc trưng ảnh và học máy**.
-
-- Sinh viên: **Ngô Thiện Đắc**
-- Mã sinh viên: **23020734**
-- Ngôn ngữ: Python 3
-- Hai notebook có thể chạy trực tiếp: [Bài 1](notebooks/bai1_phan_loai_trai_cay.ipynb) và [Bài 2](notebooks/bai2_phan_loai_hinh_dang.ipynb)
-
-> Kho này không chứa báo cáo Word/PDF kết quả. File `de_bai/week6_ml.pdf` là đề bài gốc, không phải báo cáo.
-
 ## Nội dung bài làm
 
 ### Bài 1 – Phân loại táo, chuối và cam
@@ -125,16 +116,3 @@ python tuan6/bai2_phan_loai_hinh_dang.py
 ```
 
 Kết quả được ghi vào `tuan6/output_bai2` gồm đặc trưng Shape/HOG, bảng chỉ số, biểu đồ, ma trận nhầm lẫn, mô hình tốt nhất và dự đoán 15 ảnh mới.
-
-## Dữ liệu và giấy phép
-
-- Ảnh trái cây là phần dữ liệu ba lớp được trích từ **Fruits-360** của Mihai Oltean và cộng sự.
-- Giấy phép dữ liệu: **CC BY-SA 4.0**; nội dung đầy đủ nằm tại `fruits-360-100x100-main/LICENSE`.
-- Ảnh hình học được sinh bằng `tuan6/tao_du_lieu_hinh_hoc.py` với seed mặc định `2026`.
-
-## Tính tái lập
-
-- Seed chia dữ liệu/huấn luyện mặc định: `42`.
-- Seed sinh ảnh hình học mặc định: `2026`.
-- Hai bài đều dùng phép chia Train/Test 80/20 có phân tầng.
-- `StandardScaler` được fit chỉ trên tập Train thông qua pipeline để tránh rò rỉ dữ liệu.
